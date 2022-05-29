@@ -1,0 +1,37 @@
+body {
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.mb-20 {
+  margin-bottom: 20px;
+}
+
+.grid {
+  display: flex;
+  align-items: flex-end;
+}
+
+.gridItem {
+  margin: 0 10px;
+}
+
+.tableHeader {
+  cursor: pointer;
+  position: relative;
+}
+
+.tableHeader:after {
+  content: '';
+  position: absolute;
+  left: 0px;
+  top: 26px;
+  width: 0;
+  height: 0;
+  border-left: 5px solid transparent;
+  border-right: 5px solid transparent;
+  border-top: 5px solid #000;
+  clear: both;
+
+}
