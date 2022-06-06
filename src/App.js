@@ -4,15 +4,13 @@ import Logger from './pages/Logger'
 
 function App() {
   return (
-    <Router>
+    
       <Layout>
-        <Switch>
-          <Route exact path="/">
+        
             <Logger />
-          </Route>
-        </Switch>
+         
       </Layout>
-    </Router>
+
   );
 }
 
