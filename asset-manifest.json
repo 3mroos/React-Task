@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/React-Task/static/css/main.a9dd7dbc.chunk.css",
-    "main.js": "/React-Task/static/js/main.0f19ed45.chunk.js",
-    "main.js.map": "/React-Task/static/js/main.0f19ed45.chunk.js.map",
-    "runtime-main.js": "/React-Task/static/js/runtime-main.7eadaa19.js",
-    "runtime-main.js.map": "/React-Task/static/js/runtime-main.7eadaa19.js.map",
-    "static/js/2.9d641b64.chunk.js": "/React-Task/static/js/2.9d641b64.chunk.js",
-    "static/js/2.9d641b64.chunk.js.map": "/React-Task/static/js/2.9d641b64.chunk.js.map",
-    "index.html": "/React-Task/index.html",
-    "static/css/main.a9dd7dbc.chunk.css.map": "/React-Task/static/css/main.a9dd7dbc.chunk.css.map",
-    "static/js/2.9d641b64.chunk.js.LICENSE.txt": "/React-Task/static/js/2.9d641b64.chunk.js.LICENSE.txt"
+    "main.css": "./static/css/main.a9dd7dbc.chunk.css",
+    "main.js": "./static/js/main.0f19ed45.chunk.js",
+    "main.js.map": "./static/js/main.0f19ed45.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.151eb77e.js",
+    "runtime-main.js.map": "./static/js/runtime-main.151eb77e.js.map",
+    "static/js/2.9d641b64.chunk.js": "./static/js/2.9d641b64.chunk.js",
+    "static/js/2.9d641b64.chunk.js.map": "./static/js/2.9d641b64.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.a9dd7dbc.chunk.css.map": "./static/css/main.a9dd7dbc.chunk.css.map",
+    "static/js/2.9d641b64.chunk.js.LICENSE.txt": "./static/js/2.9d641b64.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.7eadaa19.js",
+    "static/js/runtime-main.151eb77e.js",
     "static/js/2.9d641b64.chunk.js",
     "static/css/main.a9dd7dbc.chunk.css",
     "static/js/main.0f19ed45.chunk.js"
